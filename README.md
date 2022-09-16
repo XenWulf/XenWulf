@@ -19,6 +19,8 @@
 
 #### My Skills:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWulf&theme=dark&count_private=true&exclude_repo=Xayahxen.github.io,MyPortfolio,UnrealEngineTemplates,eCommerceWebsite&hide=css,html,shell,perl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
 C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
