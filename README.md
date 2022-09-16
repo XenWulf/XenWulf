@@ -6,6 +6,8 @@
 
 #### 🔭 I’m currently working on: iNFECTED (**Unreal Engine** _/_ **C++**) & A Life Simulator Project (**Unreal Engine** _/_ **C++**)!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 😄 Pronouns: He/Him
 
 #### 📫 My Links: 
@@ -16,8 +18,6 @@
 #### [Web Games](https://www.alexanderbowerman.me/Games/index.html)
 
 #### My Skills:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf)](https://github.com/anuraghazra/github-readme-stats)
 
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
