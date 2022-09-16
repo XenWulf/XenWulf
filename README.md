@@ -17,6 +17,8 @@
 
 #### My Skills:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf)](https://github.com/anuraghazra/github-readme-stats)
+
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
 C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
