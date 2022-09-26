@@ -3,19 +3,13 @@
 ## I am a Game Developer from Ontario, Canada. 
 
 ### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
-
-#### 🔭 I’m currently working on: iNFECTED (**Unreal Engine** _/_ **C++**) & A Life Simulator Project (**Unreal Engine** _/_ **C++**)!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 😄 Pronouns: He/Him
 
 #### 📫 My Links: 
 #### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
 #### [Portfolio](https://www.alexanderbowerman.dev) 
-#### [Twitter](https://twitter.com/AlexXenB)
-#### [YouTube](https://www.youtube.com/channel/UCYiFlZN-kG0jM2nyQfvQJyA)
-#### [Web Games](https://www.alexanderbowerman.me/Games/index.html)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Skills:
 
