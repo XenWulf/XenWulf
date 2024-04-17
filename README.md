@@ -7,7 +7,7 @@
 
 #### 📫 My Links: 
 #### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
-#### [Portfolio](https://www.alexanderbowerman.dev) 
+#### [Portfolio](https://alexanderbowerman.dev) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
