@@ -2,10 +2,16 @@
 
 ## I am a Game Developer from Ontario, Canada. 
 
-### I specialize in Game Programming, using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
+### I specialize in Game Programming, Engine Programming and Tools Programming using C++ (in unison with Unreal Engine 4/5) and C# (in unison with Unity Engine)!
 #### 😄 Pronouns: He/Him
 
 #### 📫 My Links: 
+<div id="badges">
+  #### [Portfolio](https://alexanderbowerman.dev) 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>(https://www.linkedin.com/in/alexander-bowerman)
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 #### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
 #### [Portfolio](https://alexanderbowerman.dev) 
 
