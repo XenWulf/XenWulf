@@ -8,7 +8,7 @@
 #### 📫 My Links: 
 <div id="badges">
   <a href="[Portfolio](https://alexanderbowerman.dev)">
-    <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My_Portfolio-blue" alt="Portfolio"/>
   </a>
   <a href="[LinkedIn](https://www.linkedin.com/in/alexander-bowerman)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
