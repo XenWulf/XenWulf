@@ -37,6 +37,12 @@ Rigging | 3DSMax, Blender | Unreal Engine, Unity Engine, Custom Rigs for Models
 Animation | 3DSMax, Blender | Unreal Engine, Unity Engine, Custom Animations
 UI/UX | Adobe Photoshop, Adobe Illustrator | Unreal Engine, Unity Engine, Web Development
 
+Tools | Software | Deployment & Usage
+-------------|----------|-------------------
+Virtual Machines | VMWare ESXI, vSphere | Virtual Data Centers, Virtual Environments
+Backups (BaaS) | Veeam Backup & Replication, Veeam Backup for Microsoft O365| Backups for VMs, Backups for Microsoft O365, Backups for Data
+Disaster Recovery (DRaaS) | Veeam Backup & Replication, vCloud | Disaster Recovery as a Solution
+
 
 <!--
 **XaYaHxen/XaYaHxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
