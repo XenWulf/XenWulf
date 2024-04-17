@@ -7,13 +7,16 @@
 
 #### 📫 My Links: 
 <div id="badges">
-  #### [Portfolio](https://alexanderbowerman.dev) 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>(https://www.linkedin.com/in/alexander-bowerman)
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[Portfolio](https://alexanderbowerman.dev)">
+    <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Portfolio"/>
+  </a>
+  <a href="[LinkedIn](https://www.linkedin.com/in/alexander-bowerman)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[YouTube](https://www.youtube.com/channel/UCp29V7G5opLfpUS7kLrA-XQ)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
-#### [LinkedIn](https://www.linkedin.com/in/alexander-bowerman) 
-#### [Portfolio](https://alexanderbowerman.dev) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenWulf&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
