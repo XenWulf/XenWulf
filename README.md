@@ -25,7 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWulf&theme=dark&count_private=true&exclude_repo=Xayahxen.github.io,MyPortfolio,UnrealEngineTemplates,eCommerceWebsite&hide=css,html,shell,perl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
-https://www.flaticon.com/free-icon/c_6132222
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
@@ -38,9 +37,6 @@ Programming | Software | Deployment & Usage
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; PHP | VSCode, PHPMyAdmin | Web Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; SQL | VSCode, MySQL | Database Management, Web Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="40" height="40"/>&nbsp; PowerShell | VSCode | Scripting, Administration
-
-
-
 
 Art & Design | Software | Deployment & Usage
 -------------|----------|-------------------
