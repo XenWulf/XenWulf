@@ -28,16 +28,16 @@
 https://www.flaticon.com/free-icon/c_6132222
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; | Visual Studio, VSCode | Unreal Engine, Custom Applications
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL" alt="JavaScript" width="40" height="40"/>&nbsp; | Visual Studio | Custom Graphics Engine / Framework
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp; | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | VSCode | Web Development
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; | VSCode | Web Development
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | VSCode | Web Development, Game Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; | VSCode, PHPMyAdmin | Web Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; | VSCode, MySQL | Database Management, Web Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="40" height="40"/>&nbsp; | VSCode | Scripting
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; C# |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL" alt="JavaScript" width="40" height="40"/>&nbsp; OpenGL/GLSL | Visual Studio | Custom Graphics Engine / Framework
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp; Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; HTML | VSCode | Web Development
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; CSS | VSCode | Web Development
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; JavaScript | VSCode | Web Development, Game Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; PHP | VSCode, PHPMyAdmin | Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; SQL | VSCode, MySQL | Database Management, Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Powershell"  alt="Powershell" width="40" height="40"/>&nbsp; PowerShell | VSCode | Scripting, Administration
 
 
 
