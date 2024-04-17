@@ -25,13 +25,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWulf&theme=dark&count_private=true&exclude_repo=Xayahxen.github.io,MyPortfolio,UnrealEngineTemplates,eCommerceWebsite&hide=css,html,shell,perl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
-
+https://www.flaticon.com/free-icon/c_6132222
 Programming | Software | Deployment & Usage
 ------------|----------|-------------------
-C++ | Visual Studio, VSCode | Unreal Engine, Custom Applications
-C# |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; | Visual Studio, VSCode | Unreal Engine, Custom Applications
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; |  Visual Studio, VSCode | Unity Engine, Custom Applications, Script Development
 GLSL | Visual Studio | Custom Graphics Engine / Framework
-Lua | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp; | Visual Studio, VSCode, Roblox Studio | Roblox Development, File Organization, Script Development
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | VSCode | Web Development
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; | VSCode | Web Development
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | VSCode | Web Development, Game Development
